@@ -3,7 +3,7 @@ This project aims to analyze and derive insights from e-commerce data to underst
 
 # Technologies Used:
 <h3>&#x2022; Python</h3>
-Pandas
-Matplotlib
-NumPy
-Jupyter Notebook
+<h3>&#x2022; Pandas</h3>
+<h3>&#x2022; Matplotlib</h3>
+<h3>&#x2022; NumPy</h3>
+<h3>&#x2022; Jupyter Notebook</h3>
